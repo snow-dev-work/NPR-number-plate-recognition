@@ -1,0 +1,21 @@
+# Ignore Visual Studio Code files
+.vscode
+
+# Ignore compiled files
+*.pyc
+*.pyo
+
+# Base folder images
+*.jpg
+*.gif
+*.png
+*.bmp
+*.svg
+*.ico
+
+#Folders
+output/*.*
+backgrounds/*.*
+
+# Exceptions
+!templates/*.*
